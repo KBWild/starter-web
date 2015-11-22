@@ -5,6 +5,8 @@ Git and Github together.
 
 Adding a sentence
 
+More changes from my feature branch
+
 ## Introduction
 
 This is example is to show different parts of the Git 
