@@ -29,4 +29,4 @@ Pull Request for review.
 
 ##Copyright 
 
-Copyright 2015(c)
+Copyright 2015(c). All rights reserved.
